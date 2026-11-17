@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
 
+# NAME : DEEPAKKUMAR S
+
+# REG NO : 212225230042
 
 # Aim : 
 
