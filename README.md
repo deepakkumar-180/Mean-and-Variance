@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+# EXP1-  MEAN AND VARIENCE OF DISCRETE DISTRIBUTION
 
 # NAME : DEEPAKKUMAR S
 
